@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FlashCardPlus</string>
+    <!--gusugusu-->
+    <string name="Asia_title">ASIA</string>>
+
+    <!--gusugusu-->
+    <string name="Japan_title">JAPAN</string>>
+    <string name="Europe_title">EUROPE</string>>
+
+
+</resources>
